@@ -1,28 +1,28 @@
-# 🏠 House Price Prediction Using Linear Regression
+# House Price Prediction Using Linear Regression
 
-This is a beginner-friendly Machine Learning project that uses **Linear Regression** to predict house prices based on features like area, number of bedrooms, and age of the house.
-
----
-
-## 📌 Features Used
-
-- 🏠 Area (in square feet)
-- 🛏️ Number of Bedrooms
-- 🕒 Age of the House (in years)
+This is a beginner-friendly Machine Learning project that utilizes **linear regression** to predict house prices based on features such as area, number of bedrooms, and the age of the house.
 
 ---
 
-## 📊 ML Workflow
+## Features Used
 
-1. 📥 Data Collection
-2. 🧹 Data Preprocessing
-3. 🔁 Model Training (Linear Regression)
-4. 📈 Model Evaluation (MSE, R² Score)
-5. 🎯 Prediction on new inputs
+-  Area (in square feet)
+-  Number of Bedrooms
+-  Age of the House (in years)
 
 ---
 
-## 🚀 How to Run
+##  ML Workflow
+
+1.  Data Collection
+2.  Data Preprocessing
+3.  Model Training (Linear Regression)
+4.  Model Evaluation (MSE, R² Score)
+5.  Prediction on new inputs
+
+---
+
+##  How to Run
 
 1. Open the `house_price_prediction.ipynb` in [Google Colab](https://colab.research.google.com/)
 2. Upload `housing_data.csv` or use the sample data
@@ -31,7 +31,7 @@ This is a beginner-friendly Machine Learning project that uses **Linear Regressi
 
 ---
 
-## 💡 Example Output
+##  Example Output
 
 ```text
 Mean Squared Error: 625000000.00  
